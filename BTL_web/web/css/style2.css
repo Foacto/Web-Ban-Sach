@@ -1,0 +1,110 @@
+dd {
+    margin-left: 0;
+}
+
+.goianh .anhlon img {
+    height: 450px;
+    width: auto;
+    display: inline-block;
+    cursor: zoom-in;
+}
+
+.goianh .tapanhbe .anhbe {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ddd;
+    margin: 7px 2px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.goianh .tapanhbe {
+    text-align: center;
+}
+
+.goianh .tapanhbe img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    cursor: zoom-in;
+}
+
+.anhlon img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.trencung {
+    height: 100px;
+}
+
+.thongtinsach {
+    max-width: 75%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.anhsach {
+    border-right: 1px solid #dee2e6!important;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.thongtinmuasach {
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.noidungthe {
+    padding: 3rem!important;
+}
+
+.tieudesach {
+    margin-bottom: 1rem!important;
+    font-size: 1.75rem;
+}
+
+.giaquyensach {
+    color: #ffc107!important;
+    font-size: 1.75rem;
+}
+
+.nutmua {
+    text-transform: uppercase!important;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    display: inline-block;
+}
+
+.nutthemvaogio {
+    text-transform: uppercase!important;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #28a745;
+    background-image: none;
+    display: inline-block;
+}
+
+.nutthemvaogio:hover {
+    background-color: #111112;
+}
